@@ -52,6 +52,13 @@
     </item>
     <item>
       <title></title>
+      <link>https://example.org/projects/gimmbo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/gimmbo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>https://example.org/projects/lift3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.org/projects/lift3d/</guid>
@@ -66,9 +73,23 @@
     </item>
     <item>
       <title></title>
+      <link>https://example.org/projects/neuraldisplacementfields/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/neuraldisplacementfields/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>https://example.org/projects/quilt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.org/projects/quilt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.org/projects/semlayer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/semlayer/</guid>
       <description></description>
     </item>
     <item>
